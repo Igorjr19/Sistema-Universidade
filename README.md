@@ -8,7 +8,7 @@ O trabalho consiste na implementação de um sistema (simplificado) para gerenci
 As funcionalidades se dividiam em duas: cadastro e geração de relatórios. O cadastro se dava pela seleção da função e inserção das informações do funcionáro a ser inserido e então ele era armazenado no sistema. A geração de relatório ocorria de acordo com a seleção do relatório a ser gerado (por meio de botões) e com a passagem dos parâmetros necessários para essa busca (caso necessário).
 
 ## Como o sistema foi desenvolvido?
-O sistema foi inteiramente desenvolvido em Java. As classes que representam os modelos de dados a serem inseridos no sistema foram desenvolvidos baseados nos diagramas UML abaixo e as classes que representam a interface gráfica foram criadas a partir de classes do pacote Swing, principalmente JFrame. Dentre os conceitos utilizados na implementação do sistema podemos citar: Orientação a Objetos, Herança, Polimorfismo, Programação em Camadas e etc.
+O sistema foi inteiramente desenvolvido em Java (JDK 18). As classes que representam os modelos de dados a serem inseridos no sistema foram desenvolvidos baseados nos diagramas UML abaixo e as classes que representam a interface gráfica foram criadas a partir de classes do pacote Swing, principalmente JFrame. Dentre os conceitos utilizados na implementação do sistema podemos citar: Orientação a Objetos, Herança, Polimorfismo, Programação em Camadas e etc.
 <br>
 <div align="center">
   <img width="350" alt="image" src="https://user-images.githubusercontent.com/91910428/200199850-3c81a578-df9c-4f46-95f3-83fbd0f4d6e1.png">
