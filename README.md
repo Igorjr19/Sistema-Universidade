@@ -16,7 +16,7 @@ O sistema foi inteiramente desenvolvido em Java (JDK 18). As classes que represe
 <br>
  
 ## Resultado:
-O resultado ser encontrado <a href="https://github.com/Igorjr19/Sistema-Universidade/blob/main/Sistema-Universidade/dist/Sistema-Universidade.jar">aqui</a>. Caso você não se sinta seguro para baixar o arquivo diretamente, sinta-se livre para baixar o código-fonte, inspeciona-lo e então fazer um build em seu próprio computador.
+Sinta-se livre para baixar o código-fonte, inspeciona-lo e então fazer um build em seu próprio computador para testar o sistema.
 Como podemos observar na imagem abaixo que representa a tela principal do sistema, a interface gráfica do usuário não apresenta uma aparência muito agradável, nem de acordo com as convenções mais modernas quanto a design de interfaces e usuabilidade de software, pois esse não era o foco do trabalho, mas sim a construção das classes que representariam os dados e a associação dos conceitos de POO aprendidos durante a disciplina para a construção do sistema. No entanto o objetivo do trabalho foi cumprido e a nota final para o trabalho foi 9/10.
 <div align="center">
   <img width="426" alt="image" src="https://user-images.githubusercontent.com/91910428/200200122-7b997df9-53fc-4619-8ae9-206726122d93.png">
